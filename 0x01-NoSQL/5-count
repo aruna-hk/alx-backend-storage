@@ -1,0 +1,2 @@
+//find then count
+db.school.find().count();
